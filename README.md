@@ -1,6 +1,6 @@
 # 🎮 Primer Proyecto en Unity
 
-Miis primeros pasos en el desarrollo de videojuegos.
+Mis primeros pasos en el desarrollo de videojuegos.
 
 ## 📚 Aprendizaje
 
