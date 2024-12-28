@@ -1,0 +1,94 @@
+# =============== #
+# Unity Generated #
+# =============== #
+
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+/[Ss]ysInfo/
+Assets/AssetStoreTools*
+
+# Visual Studio / MonoDevelop
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Autoguardado de escenas
+*.unity.autosave
+
+# Archivos de configuración específicos del usuario
+*.pidb.meta
+*.pdb
+*.opendb
+*.VC.db
+
+# Archivos relacionados con Builds
+Build/
+Builds/
+[Bb]uilds/
+[Bb]uild/
+
+# Configuración de usuario y entorno local
+*.sw?
+*.bak
+*.orig
+*.class
+
+# Crash Reports
+CrashReports/
+
+# Archivos de configuración locales
+local.settings.json
+
+# Ocultar archivos de Unity Asset Store
+Assets/AssetStoreTools*
+
+# Archivos de versión de Unity (cambian según la versión)
+# ProjectSettings/EditorBuildSettings.asset
+
+# Ignore colaboración (Unity Collab)
+[Cc]ollab/
+
+# Archivos de PlayStream (Unity Analytics)
+playstream_events.json
+
+# Thumbnails de Unity
+Assets/**/*.preview
+
+# Rider IDE
+.idea/
+*.sln.iml
+*.unityproj
+
+# JetBrains Rider / ReSharper
+*.DotSettings.user
+*_CodeStyleAnalysis.run
+
+# Otros IDEs
+*.code-workspace
+
+# Unity Package Manager
+Packages/packages-lock.json
+
+# Logs de error
+*.log
+
+# Archivos de caché de texturas
+Textures/*_Cache.meta
+Textures/*_Cache
+
+# Excluir archivos de la papelera
+[Tt]rash/
